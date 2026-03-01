@@ -38,7 +38,7 @@
       This dependency is defined with a provided scope.
       Users must supply their own Hadoop version at runtime.
     -->
-    <hadoop.version>2.7.3</hadoop.version>
+    <hadoop.version>3.4.0</hadoop.version>
   </properties>
 
   <dependencyManagement>
