@@ -30,7 +30,7 @@
   <name>Apache Beam :: SDKs :: Java :: Extensions :: Sorter</name>
   
   <properties>
-    <hadoop.version>2.7.1</hadoop.version>
+    <hadoop.version>3.4.0</hadoop.version>
   </properties>
 
   <build>
