@@ -32,7 +32,7 @@
     destinations (queues and topics). </description>
 
   <properties>
-    <activemq.version>5.13.1</activemq.version>
+    <activemq.version>6.2.3</activemq.version>
     <geronimo-jms.version>1.1.1</geronimo-jms.version>
   </properties>
 
