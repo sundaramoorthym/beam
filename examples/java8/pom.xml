@@ -36,7 +36,7 @@
   <packaging>jar</packaging>
 
   <properties>
-    <spark.version>1.6.2</spark.version>
+    <spark.version>2.2.3</spark.version>
   </properties>
 
   <profiles>
