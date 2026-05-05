@@ -84,7 +84,7 @@
     <dependency>
       <groupId>org.apache.httpcomponents</groupId>
       <artifactId>httpclient</artifactId>
-      <version>4.5.2</version>
+      <version>4.5.14</version>
     </dependency>
 
     <!-- compile dependencies -->
@@ -98,7 +98,7 @@
     <dependency>
       <groupId>org.elasticsearch</groupId>
       <artifactId>elasticsearch</artifactId>
-      <version>2.4.1</version>
+      <version>8.19.8</version>
       <scope>test</scope>
     </dependency>
 
