@@ -33,8 +33,8 @@
   <properties>
     <hbase.version>1.3.0</hbase.version>
     <hbase.guava.version>12.0.1</hbase.guava.version>
-    <hbase.protobuf.version>2.5.0</hbase.protobuf.version>
-    <hadoop.version>2.5.1</hadoop.version>
+    <hbase.protobuf.version>3.25.5</hbase.protobuf.version>
+    <hadoop.version>3.4.0</hadoop.version>
   </properties>
 
   <build>
